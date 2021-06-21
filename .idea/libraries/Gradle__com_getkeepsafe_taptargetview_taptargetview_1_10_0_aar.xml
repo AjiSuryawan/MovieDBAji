@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.getkeepsafe.taptargetview:taptargetview:1.10.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a8216103c7d38ed920681c643e128e78/jetified-taptargetview-1.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be89e78bf6ce9f9a134f431a9ea607ea/jetified-taptargetview-1.10.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be89e78bf6ce9f9a134f431a9ea607ea/jetified-taptargetview-1.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be89e78bf6ce9f9a134f431a9ea607ea/jetified-taptargetview-1.10.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.10.0/aca0de02bcbeea279a0636c88287f30d3e9fe680/taptargetview-1.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getkeepsafe.taptargetview/taptargetview/1.10.0/1a1d5b4701e34fca471472658e0d81379b446b2b/taptargetview-1.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
